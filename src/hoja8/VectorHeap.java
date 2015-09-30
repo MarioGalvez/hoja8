@@ -1,6 +1,6 @@
 // An implementation of a priority queue in a vector.
 // (c) 1998, 2001, 2002 duane a. bailey
-package structure5;
+package hoja8;
 
 /**
  * This class implements a priority queue based on a traditional

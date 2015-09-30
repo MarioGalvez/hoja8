@@ -2,7 +2,7 @@
 // (c) 1998, 2001 duane a. bailey
 // $Id: Vector.java 31 2007-08-06 17:19:56Z bailey $
 
-package structure5;
+package hoja8;
 import java.util.Iterator;
 import java.util.Collection;
 

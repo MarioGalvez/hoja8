@@ -1,7 +1,7 @@
 // A private class implementing an iterator over a Vector.
 // (c) 1998, 2001 duane a. bailey
 
-package structure5;
+package hoja8;
 /**
  * A private class for implementing an iterator over a Vector.
  * <p>
